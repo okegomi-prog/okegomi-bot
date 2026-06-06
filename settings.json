@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "okegomi.aternos.me:41963",
+    "ip": "okegomi.aternos.me",
     "port": 41963,
     "version": "",
     "try-creative": false
